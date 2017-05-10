@@ -22,6 +22,6 @@ Add your solution without the node_modules folder to a zip.
 
 ## Help
 
-Run `npm install -g angular-cli@latest` to install angular-cli
-Run `npm install bootstrap` to add bootstrap
+Run `npm install -g angular-cli@latest` to install angular-cli.
+Run `npm install bootstrap` to add bootstrap.
 Run `npm install` within the frontEnd folder to install all dependencies.
