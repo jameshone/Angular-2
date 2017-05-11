@@ -18,7 +18,7 @@ your CSS skills it's also important. It is also important that you can bundle al
 
 ## Deliverables
 
-Please create a branch of the project in GitHub and keep your commits in sync, avoid doing a commit all since we would like to see how incrementally its beind developed as well, make sure your comments are clear. Once you are confortable with the final result please issue a Pull Request.
+Please create a branch of the project in GitHub and keep your commits in sync, avoid doing a commit all, since we would like to see how its incrementally being developed. Make sure your comments are clear. Once you are comfortable with the final result please issue a Pull Request.
 
 ## Further help
 
