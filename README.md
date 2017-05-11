@@ -18,7 +18,7 @@ your CSS skills it's also important. It is also important that you can bundle al
 
 ## Deliverables
 
-Add your solution without the node_modules folder to a zip, or do a pull request on the existing project.
+Please create a branch of the project in GitHub and keep your commits in sync, avoid doing a commit all since we would like to see how incrementally its beind developed as well, make sure your comments are clear. Once you are confortable with the final result please issue a Pull Request.
 
 ## Further help
 
